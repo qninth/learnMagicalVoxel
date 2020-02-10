@@ -1,5 +1,7 @@
 # 如何开始使用Magical Voxel
 
+[TOC]
+
 ## 存活下来——什么是Model？
 
 ### 提示栏 Toggle Hint
